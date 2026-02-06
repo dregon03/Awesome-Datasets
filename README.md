@@ -146,6 +146,7 @@
 * [Hajj Statistics](https://www.stats.gov.sa/en/statistics-tabs/-/categories/124364?tab=436312&category=124364) - stats.gov.sa
 * [ZATCA - Open Data Portal](https://zatca.gov.sa/en/PublicData/Pages/Datasets-in-Saudi-Open-Data-Portal.aspx) - zatca.gov.sa
 * [General Authority of Civil Aviation](https://gaca.gov.sa/en/Open-Data) ✈️ - gaca.gov.sa
+* [Ministry Of Industry And Mineral Resources](https://open.data.gov.sa/en/publishers/2601d6d6-ee7b-4a03-aaa9-7f2a2412f7e5) - open.data.gov.sa
 
 ### Qatar
 * [Qatar Open Data](https://www.data.gov.qa) - data.gov.qa
